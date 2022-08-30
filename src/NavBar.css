@@ -1,0 +1,9 @@
+.nav{
+    font-family: Helvetica; 
+    font-style: normal; 
+    font-size: 15px;
+}
+
+.nav-element {
+    padding-left: 2rem;
+}
